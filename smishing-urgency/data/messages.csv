@@ -1,0 +1,21 @@
+text,label
+"FINAL NOTICE: Your account is locked. Verify now within 24 hours to avoid deactivation.",phish
+"URGENT: Respond now to confirm payment or your service will be suspended.",phish
+"Your payment failed. Update payment information immediately to avoid penalty.",phish
+"Limited time offer! Act now to claim your reward.",phish
+"We detected suspicious activity. Your account may be compromised. Verify immediately.",phish
+"Final notice: Your subscription will be canceled unless you respond now.",phish
+"Alert: Unauthorized login detected. Verify your identity within 48 hours.",phish
+"You have won a prize! Click now to claim before time runs out.",phish
+"Account suspended. Reactivate immediately to avoid permanent deactivation.",phish
+"Notice: Overdue balance. Pay now to avoid penalty.",phish
+"Your package will be delivered tomorrow between 9-5.",legit
+"Hi, are we still on for lunch today at noon?",legit
+"Reminder: Your appointment is scheduled for next Wednesday.",legit
+"Your internet bill for August has been posted; no action needed yet.",legit
+"Thanks for your message. I will get back to you this afternoon.",legit
+"Meeting moved to 2pm, see you then.",legit
+"Your class registration is confirmed.",legit
+"Flight itinerary: Your flight departs at 10:45AM.",legit
+"Your subscription was successfully renewed.",legit
+"Don't forget the team call tomorrow morning.",legit
