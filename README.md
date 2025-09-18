@@ -51,4 +51,3 @@ My goal is to build up from small experiments into more advanced projects that w
 ## Context  
 This repo is part of my learning journey in AI, NLP, and cybersecurity.  
 I am documenting my progress project by project, so others can see both my technical growth and my dedication to bridging human psychology, cybersecurity, and AI. 
-Angelica Shelman.
